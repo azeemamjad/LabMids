@@ -1,0 +1,14 @@
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\bin\Debug\net8.0\Palindrom_Program.exe
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\bin\Debug\net8.0\Palindrom_Program.deps.json
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\bin\Debug\net8.0\Palindrom_Program.runtimeconfig.json
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\bin\Debug\net8.0\Palindrom_Program.dll
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\bin\Debug\net8.0\Palindrom_Program.pdb
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\Palindrom_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\Palindrom_Program.AssemblyInfoInputs.cache
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\Palindrom_Program.AssemblyInfo.cs
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\Palindrom_Program.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\Palindrom_Program.dll
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\refint\Palindrom_Program.dll
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\Palindrom_Program.pdb
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\Palindrom_Program.genruntimeconfig.cache
+C:\Users\Sohail Amjad\source\repos\Palindrom_Program\obj\Debug\net8.0\ref\Palindrom_Program.dll
